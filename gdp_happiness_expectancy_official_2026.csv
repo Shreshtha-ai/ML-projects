@@ -1,0 +1,74 @@
+Country,GDP_Per_Capita_USD,Life_Satisfaction,Life_Expectancy_Years,Continent,Data_Year
+Luxembourg,138757,7.12,83.2,Europe,2026
+Ireland,112356,6.89,82.8,Europe,2026
+Switzerland,108256,6.94,84.3,Europe,2026
+Singapore,94897,6.52,84.1,Asia,2026
+Norway,89684,7.26,83.5,Europe,2026
+Iceland,86485,7.52,83.6,Europe,2026
+United States,86173,6.72,79.3,North America,2026
+Denmark,71214,7.52,81.9,Europe,2026
+Qatar,69720,6.48,81.5,Asia,2026
+Finland,68860,7.76,82.4,Europe,2026
+Netherlands,67690,7.31,82.1,Europe,2026
+Australia,66350,7.05,83.9,Oceania,2026
+Austria,58373,6.81,82.0,Europe,2026
+Sweden,57125,7.35,83.5,Europe,2026
+Belgium,56796,6.91,82.2,Europe,2026
+Germany,56087,6.71,81.4,Europe,2026
+Canada,55760,6.9,82.6,North America,2026
+Israel,54294,7.23,83.2,Asia,2026
+United Kingdom,53339,6.8,81.6,Europe,2026
+New Zealand,48929,6.95,83.0,Oceania,2026
+United Arab Emirates,48906,6.73,80.4,Asia,2026
+France,46054,6.7,83.1,Europe,2026
+Italy,40405,6.4,84.0,Europe,2026
+Cyprus,38933,6.25,81.7,Europe,2026
+South Korea,36239,6.05,84.3,Asia,2026
+Saudi Arabia,35528,6.6,77.3,Asia,2026
+Spain,35151,6.5,84.2,Europe,2026
+Taiwan,34252,6.5,81.3,Asia,2026
+Japan,33820,6.1,84.8,Asia,2026
+Brunei,33665,6.2,77.5,Asia,2026
+Czech Republic,31740,6.8,79.8,Europe,2026
+Estonia,31419,6.5,79.2,Europe,2026
+Lithuania,29598,6.83,76.4,Europe,2026
+Portugal,29319,6.0,82.5,Europe,2026
+Slovakia,25972,6.25,78.1,Europe,2026
+Poland,25057,6.2,78.6,Europe,2026
+Greece,24688,5.9,80.6,Europe,2026
+Croatia,24044,6.15,79.4,Europe,2026
+Uruguay,23576,6.5,78.3,South America,2026
+Latvia,23499,6.2,76.2,Europe,2026
+Hungary,23253,5.0,76.5,Europe,2026
+Oman,20529,5.9,78.9,Asia,2026
+Romania,20199,6.0,76.6,Europe,2026
+Panama,19187,6.2,79.1,North America,2026
+Costa Rica,18165,7.27,81.2,North America,2026
+Bulgaria,17610,5.4,74.8,Europe,2026
+Maldives,17280,7.1,81.0,Asia,2026
+Chile,16590,6.3,80.1,South America,2026
+Turkey,15883,4.9,78.5,Asia,2026
+Russia,15094,5.95,73.2,Europe,2026
+Kazakhstan,14459,6.1,74.4,Asia,2026
+Argentina,14360,6.1,76.6,South America,2026
+Mexico,13839,6.6,75.4,North America,2026
+China,13453,5.6,78.6,Asia,2026
+Malaysia,12619,5.8,76.8,Asia,2026
+Brazil,10282,6.49,75.8,South America,2026
+South Africa,6435,4.9,62.3,Africa,2026
+Indonesia,4958,5.4,72.1,Asia,2026
+Vietnam,4536,5.8,74.8,Asia,2026
+Morocco,4298,5.1,75.0,Africa,2026
+Tunisia,4181,4.9,74.5,Africa,2026
+Philippines,4089,5.5,72.4,Asia,2026
+Sri Lanka,3920,5.9,76.6,Asia,2026
+Bhutan,3830,5.8,72.5,Asia,2026
+Egypt,3594,4.4,70.9,Africa,2026
+Lebanon,3200,3.19,77.8,Asia,2026
+India,2730,4.39,72.0,Asia,2026
+Bangladesh,2630,4.5,73.5,Asia,2026
+Pakistan,1410,3.8,66.4,Asia,2026
+Nepal,1390,5.1,71.3,Asia,2026
+Sierra Leone,918,3.0,60.1,Africa,2026
+Malawi,645,3.26,65.2,Africa,2026
+Afghanistan,410,1.45,62.5,Asia,2026
