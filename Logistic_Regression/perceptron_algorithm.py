@@ -9,3 +9,22 @@ plt.xlabel("Feature 1")
 plt.ylabel("Feature 2")
 plt.title("Perceptron Algorithm")
 plt.show()    
+
+def perceptron(X,y):
+    
+    X = np.insert(X,0,1,axis=1)
+    weights = np.ones(X.shape[1])
+    lr = 0.1
+    
+    for i in range(1000):
+        j = np.random.randint(0,100)
+        y_hat = step(np.dot(X[j],weights)) # y = w0 + w1*x1 + w2*x2
+        weights = weights + lr*(y[j]-y_hat)*X[j]
+        
+    return weights[0],weights[1:]
+    
+def step(z):
+    return 1 if z>=0 else 0 # this is the activation function we use in the perceptron algorithm
+
+
+intercept_,coef_ = perceptron(X,y)
